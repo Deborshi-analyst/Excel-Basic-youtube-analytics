@@ -1,7 +1,7 @@
 # Excel-Basic-youtube-analytics
 ## Youtube Trends report :
 
-
+My first data analytics project I came up with to test my Excel and Analytical skills
 - **Project objective:** 
 
     **1.** Extract [data](https://github.com/Deborshi-analyst/Excel-Basic-youtube-analytics/blob/main/raw%20data.pdf) regarding trending videos on Youtube.

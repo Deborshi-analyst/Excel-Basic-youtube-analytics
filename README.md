@@ -8,7 +8,7 @@
   
     **2.** Load the [data](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) in to excel [sheet]() with proper table format.
   
-    **3.** Create a [report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) to understand what kind of videos are trending now days on Youtube of different catagories and how each catagories are doing in compaired to each other.
+    **3.** Create a [report](https://github.com/Deborshi-analyst/Excel-Basic-youtube-analytics/blob/main/Trending%20videos%20report.pdf) to understand what kind of videos are trending now days on Youtube of different catagories and how each catagories are doing in compaired to each other.
 
 ## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
